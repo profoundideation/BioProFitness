@@ -15,8 +15,8 @@
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
         <style>
             html {
-                background-image: url(./images/BioProFitness.png);
-                background-repeat: repeat-x; 
+                background-image: url(./images/BioProFitnessDoThis.png);
+                background-repeat: repeat; 
             }
         </style>
     </head>
